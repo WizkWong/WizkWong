@@ -1,5 +1,5 @@
-👋 Hi, I’m @WizkWong. <br><br>
-I am very passionate about technology. Currently, I am pursuing Full Stack Developer and studying Software Engineering Degree at Asia Pacific University. My long journey had started, and there will be more challenges on my journey. I will face any kind of challenge and continue to grow and learn.
+Hi, I’m @WizkWong. <br><br>
+I am very passionate about technology, especially software and hardware. I am willing to develop software projects to help society. My long journey has started, and there will be more challenges on it. I will face any challenge and continue to grow and learn.
 
 If you are interested, then here is my contact and personal info:
 - chijianwong7@gmail.com
